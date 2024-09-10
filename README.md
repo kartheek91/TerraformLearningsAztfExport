@@ -66,4 +66,4 @@ Now, let's open **aztfexportResourceMapping.json** , and we should see the resou
 
 1. Azure Export GitHub: https://github.com/Azure/aztfexport
 2. Azure Export Docs: https://aka.ms/tf/exportdocs
-3. If you curious about the code please find link to the Github repo: 
+3. If you curious about the code please find link to the Github repo: https://github.com/kartheek91/TerraformLearningsAztfExport/
