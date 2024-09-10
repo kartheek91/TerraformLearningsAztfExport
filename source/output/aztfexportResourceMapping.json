@@ -1,0 +1,7 @@
+{
+	"/subscriptions/dfbccd65-4e2b-4923-8ad1-2de63fdb2c3a/resourceGroups/kartheek-learnings/providers/Microsoft.Storage/storageAccounts/terraformexport1": {
+		"resource_id": "/subscriptions/dfbccd65-4e2b-4923-8ad1-2de63fdb2c3a/resourceGroups/kartheek-learnings/providers/Microsoft.Storage/storageAccounts/terraformexport1",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-0"
+	}
+}

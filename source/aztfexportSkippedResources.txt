@@ -1,0 +1,6 @@
+Following resources are marked to be skipped:
+
+- /subscriptions/dfbccd65-4e2b-4923-8ad1-2de63fdb2c3a/resourceGroups/kartheek-learnings/providers/Microsoft.Storage/storageAccounts/terraformexport/blobServices/default
+- /subscriptions/dfbccd65-4e2b-4923-8ad1-2de63fdb2c3a/resourceGroups/kartheek-learnings/providers/Microsoft.Storage/storageAccounts/terraformexport/fileServices/default
+- /subscriptions/dfbccd65-4e2b-4923-8ad1-2de63fdb2c3a/resourceGroups/kartheek-learnings/providers/Microsoft.Storage/storageAccounts/terraformexport/queueServices/default
+- /subscriptions/dfbccd65-4e2b-4923-8ad1-2de63fdb2c3a/resourceGroups/kartheek-learnings/providers/Microsoft.Storage/storageAccounts/terraformexport/tableServices/default
